@@ -1,4 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub page!
+
+Here you might find some cool things that I will add someday!
+
+Unfortunately, today is not that day. So before you leave, I'll leave you with two of my favorite quotes!
+
+To give anything less than your best is to sacrifice the gift.
+*-Steve Prefontaine*
+
+Don't be upset by the results you didn't get from the work you didn't do.
+*-Unknown*
+
+
+
+
+
+<!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ALackey-ai/ALackey-ai.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +51,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+-->
