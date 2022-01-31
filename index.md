@@ -2,13 +2,16 @@
 
 Here you might find some cool things that I will add someday!
 
+
+
+
 Unfortunately, today is not that day. So before you leave, I'll leave you with two of my favorite quotes!
 
-To give anything less than your best is to sacrifice the gift.
-*-Steve Prefontaine*
+>To give anything less than your best is to sacrifice the gift.
+    >*-Steve Prefontaine*
 
-Don't be upset by the results you didn't get from the work you didn't do.
-*-Unknown*
+>Don't be upset by the results you didn't get from the work you didn't do.
+    >*-Unknown*
 
 
 
