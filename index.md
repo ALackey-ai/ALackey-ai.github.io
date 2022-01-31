@@ -12,11 +12,16 @@ Unfortunately, today is not that day. So before you leave, I'll leave you with t
 *-Steve Prefontaine*
 
 
+
 >Don't be upset by the results you didn't get from the work you didn't do.
 
 *-Unknown*
 
 
+
+
+
+    Oh, and if your curious, this [guy](https://www.boisestate.edu/coen-cs/people/faculty/shane-panter/) made me do this.
 
 
 
