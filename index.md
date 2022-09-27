@@ -25,7 +25,7 @@ Unfortunately, today is not that day of seeing my projects. So before you leave,
 
 
 
-Oh, and if your curious, this was part of a class where [this Professor](https://www.boisestate.edu/coen-cs/people/faculty/shane-panter/) had me do this.
+Oh, and if your curious, this was part of a class where [this Professor](https://www.boisestate.edu/coen-cs/people/faculty/shane-panter/) had me create this page.
 
 
 
