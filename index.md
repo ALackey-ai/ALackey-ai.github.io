@@ -2,10 +2,14 @@
 
 Here you might find some cool things that I will add someday!
 
+For any employers looking for my school projects, feel free to request access or ask any other questions by sending an email to andrewlackey@u.boisestate.edu. 
+Due to Boise State University's policies I am unable to make previous classwork publicly available.
 
+Heres a [link](https://github.com/ALackey-ai?tab=repositories) to my currently public repositories.
 
+&nbsp;
 
-Unfortunately, today is not that day. So before you leave, I'll leave you with two of my favorite quotes!
+Unfortunately, today is not that day of seeing my projects. So before you leave, I'll leave you with two of my favorite quotes!
 
 >To give anything less than your best is to sacrifice the gift.
 
@@ -21,7 +25,7 @@ Unfortunately, today is not that day. So before you leave, I'll leave you with t
 
 
 
-Oh, and if your curious, this [guy](https://www.boisestate.edu/coen-cs/people/faculty/shane-panter/) made me do this.
+Oh, and if your curious, this was part of a class where [this Professor](https://www.boisestate.edu/coen-cs/people/faculty/shane-panter/) had me do this.
 
 
 
